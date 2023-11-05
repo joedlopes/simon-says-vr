@@ -6,6 +6,7 @@ It is just part of a tutorial series that you can find at:
 
 [![Simon Says VR](http://img.youtube.com/vi/tHpijO3kkJw/0.jpg)](https://www.youtube.com/watch?v=tHpijO3kkJw)
 
+Full playlist at [youtube](https://www.youtube.com/playlist?list=PLWeYqcDl7tVsQYhovYOAdLCq5RoXvZPjM).
 
 ## Main Scene
 
