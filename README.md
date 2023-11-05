@@ -7,6 +7,20 @@ It is just part of a tutorial series that you can find at:
 [![Simon Says VR](http://img.youtube.com/vi/tHpijO3kkJw/0.jpg)](https://www.youtube.com/watch?v=tHpijO3kkJw)
 
 
+## Main Scene
+
+The main Scene is in the following path:
+    "Assets/MemGame/Scenes/MainScene.unity"
+
+## Project Structure
+
+The main files of the project are stored in Assets/MemGame:
+- Assets/MemGame/Materials: colors and textures
+- Assets/MemGame/Prefabs: main prefabs Table, CubeItem, etc
+- Assets/MemGame/Scenes: MainScene, LobbyScene, etc.
+- Assets/MemGame/Scripts: classes implemented with the game logic
+- Assets/MemGame/Sounds: audio effects and voices
+
 
 ## License
 
