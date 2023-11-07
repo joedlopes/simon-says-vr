@@ -92,9 +92,15 @@ public class GameManager : MonoBehaviour
 
     void MoveItemsToSpawnPosition()
     {
+        List<Transform> positions = new List<Transform>(spawnPoints);
+
         for (int i = 0; i < items.Count; i++)
         {
-            items[i].transform.localPosition = spawnPoints[i].position;
+            int idx = Random.Range(0, positions.Count);
+            Vector3 randomPosition = positions[idx].position;
+            positions.RemoveAt(idx);
+
+            items[i].transform.localPosition = randomPosition;
             items[i].transform.localRotation = Quaternion.identity;
         }
     }
