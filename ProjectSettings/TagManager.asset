@@ -9,6 +9,8 @@ TagManager:
   - Zone2
   - Zone3
   - Table
+  - Target
+  - Bullet
   layers:
   - Default
   - TransparentFX
