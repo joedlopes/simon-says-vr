@@ -4,9 +4,6 @@ A simple game based on Simon Says in VR using Unity 3D, OpenXR, and XR Interacti
 
 It is just part of a tutorial series that you can find at:
 
-[![Simon Says VR](http://img.youtube.com/vi/tHpijO3kkJw/0.jpg)](https://www.youtube.com/watch?v=tHpijO3kkJw)
-
-
 ## Main Scene
 
 The main Scene is in the following path:
